@@ -39,7 +39,7 @@ Das Modell könnte durch das Einspielen weiterer Feature-Daten verbessert werden
 | [`data/`](data/) | Ablage für den Datensatz (nicht im Repository) |
 | [`models/`](models/) | Das gespeicherte finale Modell (`random_forest_model.joblib`) |
 | [`01_assignment.md`](01_assignment.md) | Die Aufgabenstellung aus der Original-Vorlage|
-| [`02_kanban_board.md`](02-eda.ipynb) | Das Notebook mit Analyse und Modellen |
+| [`02_eda.ipynb`](02-eda.ipynb) | Das Notebook mit Analyse und Modellen |
 
 ## Einrichtung
 
