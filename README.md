@@ -40,6 +40,7 @@ Das Modell könnte durch das Einspielen weiterer Feature-Daten verbessert werden
 | [`models/`](models/) | Das gespeicherte finale Modell (`random_forest_model.joblib`) |
 | [`01_assignment.md`](01_assignment.md) | Die Aufgabenstellung aus der Original-Vorlage|
 | [`02_eda.ipynb`](02-eda.ipynb) | Das Notebook mit Analyse und Modellen |
+| [`Präsentation.pdf`](Präsentation.pdf) | Die Präsentation zum Projekt im PDF-Format |
 
 ## Einrichtung
 
