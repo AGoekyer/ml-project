@@ -9,7 +9,7 @@ die vor dem Start des Projekts festgelegt werden müssen.
 - **Wer nutzt das Ergebnis?** Projektgründer einer Kickstarter-Kampagne.
 - **Vorhersage:** erfolgreich (1) oder gescheitert (0), als
   Erfolgswahrscheinlichkeit.
-- **Hauptmetrik:** ROC-AUC. Dazu F1, Precision und Recall.
+- **Hauptmetrik:** ROC-AUC. Dazu F1, Accuracy, Precision und Recall.
 - **Erfolgskriterium:** ROC-AUC von mindestens 0,75 (akzeptable Vorhersage) auf den Testdaten und
   klar besser als die Baseline.
 
